@@ -12,7 +12,7 @@ class _DirectoryState extends State<Directory> {
     return Column(
       children: [
         Fayillar(
-          text: 'Android',
+          text: 'AndroiD',
           item: '3 items | 19/08/2021  12:32',
         ),
         Padding(
